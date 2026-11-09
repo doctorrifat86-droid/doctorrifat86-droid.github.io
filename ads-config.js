@@ -6,7 +6,7 @@
 // 3. Keep "Auto ads" OFF for this site in AdSense so ads never appear inside checklists or patient cases.
 // 4. Also update /ads.txt at the domain root: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
 window.ADS_CONFIG={
-  ADSENSE_CLIENT:"",          // e.g. "ca-pub-1234567890123456"
+  ADSENSE_CLIENT:"ca-pub-9047557161133389",          // e.g. "ca-pub-1234567890123456"
   SLOTS:{
     home:"",                  // banner at the bottom of the home screen
     calc:"",                  // below a calculator result (calculator pages)

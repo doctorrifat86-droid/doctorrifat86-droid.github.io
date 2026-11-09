@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://doctorrifat86-droid.github.io/sitemap.xml
